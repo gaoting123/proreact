@@ -6,7 +6,7 @@
 		<div class="footer">
 
 			<van-tabbar v-model="active" route>
-				<van-tabbar-item to="/index/home" icon="wap-home-o">首页</van-tabbar-item>
+				<van-tabbar-item to="/index/home" icon="wap-home-o">首页123</van-tabbar-item>
 				<van-tabbar-item to="/index/category" icon="apps-o">分类</van-tabbar-item>
 				<van-tabbar-item to="/index/cart" icon="shopping-cart-o">购物车</van-tabbar-item>
 				<van-tabbar-item to="/index/my" icon="friends-o">我的</van-tabbar-item>
